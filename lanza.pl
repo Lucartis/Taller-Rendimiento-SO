@@ -2,7 +2,9 @@
 
 #/***********************************
 #Autores:
-#- Jose Jaramillo
+#LUCAS RIVERA MORA
+#SANTIAGO LEMUS VALLEJO
+#PAULA MALAGÓN GONZÁLEZ
 #Fecha: 7 de mayo de 2024
 #Materia: Sistemas Operativos
 #Pontificia Universidad Javeriana

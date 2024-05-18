@@ -1,6 +1,6 @@
 # Taller-Rendimiento-SO
 
-## Repositorio GitHub: Taller de Evaluación de Rendimiento de Computación Paralela
+## Repositorio de GitHub: Taller de Evaluación de Rendimiento de Computación Paralela
 
 **Descripción:**
 
